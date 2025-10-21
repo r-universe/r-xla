@@ -1,8 +1,20 @@
 [
   {
+    "package": "pjrt",
+    "url": "https://github.com/r-xla/pjrt",
+    "via": ["stablehlo"],
+    "from": "stablehlo"
+  },
+  {
     "package": "tengen",
     "url": "https://github.com/r-xla/tengen",
     "via": ["pjrt"],
     "from": "pjrt"
+  },
+  {
+    "package": "tengen",
+    "url": "https://github.com/r-xla/tengen",
+    "via": ["stablehlo", "pjrt"],
+    "from": "stablehlo"
   }
 ]
