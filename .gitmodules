@@ -5,6 +5,10 @@
 [submodule "anvil"]
 	path = anvil
 	url = https://github.com/r-xla/anvil
+[submodule "dotty"]
+	path = dotty
+	url = https://github.com/kevinushey/dotty
+	registered = false
 [submodule "pjrt"]
 	path = pjrt
 	url = https://github.com/r-xla/pjrt
