@@ -1,4 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/r-xla/r-xla.r-universe.dev
 	branch = HEAD
+[submodule "anvil"]
+	path = anvil
+	url = https://github.com/r-xla/anvil
+[submodule "pjrt"]
+	path = pjrt
+	url = https://github.com/r-xla/pjrt
+[submodule "stablehlo"]
+	path = stablehlo
+	url = https://github.com/r-xla/stablehlo
+[submodule "tengen"]
+	path = tengen
+	url = https://github.com/r-xla/tengen
+[submodule "xlamisc"]
+	path = xlamisc
+	url = https://github.com/r-xla/xlamisc
