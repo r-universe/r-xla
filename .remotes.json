@@ -1,33 +1,9 @@
 [
   {
-    "package": "dotty",
-    "url": "https://github.com/kevinushey/dotty",
-    "via": ["anvil"],
-    "from": "anvil"
-  },
-  {
-    "package": "pjrt",
-    "url": "https://github.com/r-xla/pjrt",
-    "via": ["anvil"],
-    "from": "anvil"
-  },
-  {
     "package": "pjrt",
     "url": "https://github.com/r-xla/pjrt",
     "via": ["stablehlo"],
     "from": "stablehlo"
-  },
-  {
-    "package": "stablehlo",
-    "url": "https://github.com/r-xla/stablehlo",
-    "via": ["anvil"],
-    "from": "anvil"
-  },
-  {
-    "package": "tengen",
-    "url": "https://github.com/r-xla/tengen",
-    "via": ["anvil", "pjrt"],
-    "from": "anvil"
   },
   {
     "package": "tengen",
@@ -40,11 +16,5 @@
     "url": "https://github.com/r-xla/tengen",
     "via": ["stablehlo", "pjrt"],
     "from": "stablehlo"
-  },
-  {
-    "package": "xlamisc",
-    "url": "https://github.com/r-xla/xlamisc",
-    "via": ["anvil"],
-    "from": "anvil"
   }
 ]
