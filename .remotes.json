@@ -8,7 +8,7 @@
   {
     "package": "tengen",
     "url": "https://github.com/r-xla/tengen",
-    "via": ["stablehlo", "pjrt"],
+    "via": ["stablehlo"],
     "from": "stablehlo"
   }
 ]
