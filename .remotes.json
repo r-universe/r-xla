@@ -32,7 +32,7 @@
   {
     "package": "xlamisc",
     "url": "https://github.com/r-xla/xlamisc",
-    "via": ["anvil"],
+    "via": ["anvil", "stablehlo"],
     "from": "anvil"
   },
   {
