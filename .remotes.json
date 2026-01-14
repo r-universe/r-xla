@@ -34,5 +34,11 @@
     "url": "https://github.com/r-xla/xlamisc",
     "via": ["anvil"],
     "from": "anvil"
+  },
+  {
+    "package": "xlamisc",
+    "url": "https://github.com/r-xla/xlamisc",
+    "via": ["stablehlo"],
+    "from": "stablehlo"
   }
 ]
