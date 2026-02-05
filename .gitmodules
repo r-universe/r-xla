@@ -8,7 +8,7 @@
 [submodule "pjrt"]
 	path = pjrt
 	url = https://github.com/r-xla/pjrt
-	branch = *release
+	branch = v0.1.0
 [submodule "stablehlo"]
 	path = stablehlo
 	url = https://github.com/r-xla/stablehlo
