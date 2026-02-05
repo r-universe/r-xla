@@ -12,7 +12,7 @@
 [submodule "stablehlo"]
 	path = stablehlo
 	url = https://github.com/r-xla/stablehlo
-	branch = *release
+	branch = v0.1.0
 [submodule "tengen"]
 	path = tengen
 	url = https://github.com/r-xla/tengen
