@@ -4,19 +4,11 @@
     "releasetag": true
   },
   {
-    "package": "stablehlo",
-    "releasetag": true
-  },
-  {
     "package": "xlamisc",
     "releasetag": true
   },
   {
     "package": "tengen",
-    "releasetag": true
-  },
-  {
-    "package": "anvil",
     "releasetag": true
   }
 ]

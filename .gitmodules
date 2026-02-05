@@ -5,7 +5,6 @@
 [submodule "anvil"]
 	path = anvil
 	url = https://github.com/r-xla/anvil
-	branch = *release
 [submodule "pjrt"]
 	path = pjrt
 	url = https://github.com/r-xla/pjrt
@@ -13,7 +12,6 @@
 [submodule "stablehlo"]
 	path = stablehlo
 	url = https://github.com/r-xla/stablehlo
-	branch = *release
 [submodule "tengen"]
 	path = tengen
 	url = https://github.com/r-xla/tengen
