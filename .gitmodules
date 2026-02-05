@@ -21,4 +21,4 @@
 [submodule "xlamisc"]
 	path = xlamisc
 	url = https://github.com/r-xla/xlamisc
-	branch = *release
+	branch = v0.1.0
