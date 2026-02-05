@@ -4,6 +4,10 @@
     "releasetag": true
   },
   {
+    "package": "stablehlo",
+    "releasetag": true
+  },
+  {
     "package": "xlamisc",
     "releasetag": true
   },
