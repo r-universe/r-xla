@@ -14,5 +14,9 @@
   {
     "package": "tengen",
     "releasetag": true
+  },
+  {
+    "package": "anvil",
+    "releasetag": true
   }
 ]
