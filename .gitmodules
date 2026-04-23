@@ -2,10 +2,10 @@
 	path = .registry
 	url = https://github.com/r-xla/r-xla.r-universe.dev
 	branch = HEAD
-[submodule "anvil"]
-	path = anvil
-	url = https://github.com/r-xla/anvil
-	branch = v0.1.0
+[submodule "anvl"]
+	path = anvl
+	url = https://github.com/r-xla/anvl
+	branch = *release
 [submodule "pjrt"]
 	path = pjrt
 	url = https://github.com/r-xla/pjrt
