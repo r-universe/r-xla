@@ -17,7 +17,7 @@
 [submodule "tengen"]
 	path = tengen
 	url = https://github.com/r-xla/tengen
-	branch = v0.2.0
+	branch = v0.3.0
 [submodule "xlamisc"]
 	path = xlamisc
 	url = https://github.com/r-xla/xlamisc
