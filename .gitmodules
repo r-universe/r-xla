@@ -10,6 +10,10 @@
 	path = pjrt
 	url = https://github.com/r-xla/pjrt
 	branch = v0.5.0
+[submodule "pjrt.cuda"]
+	path = pjrt.cuda
+	url = https://github.com/r-xla/pjrt.cuda
+	branch = *release
 [submodule "stablehlo"]
 	path = stablehlo
 	url = https://github.com/r-xla/stablehlo

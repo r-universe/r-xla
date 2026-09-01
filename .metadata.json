@@ -4,6 +4,10 @@
     "releasetag": true
   },
   {
+    "package": "pjrt.cuda",
+    "releasetag": true
+  },
+  {
     "package": "stablehlo",
     "releasetag": true
   },
