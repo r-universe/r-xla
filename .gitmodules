@@ -13,7 +13,7 @@
 [submodule "pjrt.cuda"]
 	path = pjrt.cuda
 	url = https://github.com/r-xla/pjrt.cuda
-	branch = v0.1.0
+	branch = v0.2.0
 [submodule "stablehlo"]
 	path = stablehlo
 	url = https://github.com/r-xla/stablehlo
