@@ -9,7 +9,7 @@
 [submodule "pjrt"]
 	path = pjrt
 	url = https://github.com/r-xla/pjrt
-	branch = v0.5.0
+	branch = v0.6.0
 [submodule "pjrt.cuda"]
 	path = pjrt.cuda
 	url = https://github.com/r-xla/pjrt.cuda
