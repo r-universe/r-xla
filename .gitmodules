@@ -5,7 +5,7 @@
 [submodule "anvl"]
 	path = anvl
 	url = https://github.com/r-xla/anvl
-	branch = v0.5.0
+	branch = v0.5.1
 [submodule "pjrt"]
 	path = pjrt
 	url = https://github.com/r-xla/pjrt
